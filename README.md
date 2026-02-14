@@ -135,6 +135,10 @@ Tools
 - [VictorOps](https://victorops.com/)
 - [PagerDuty](https://www.pagerduty.com/)
 
+### AI Agent Operations
+
+- [FerrumDeck](https://github.com/sattyamjjain/ferrumdeck) - Production-grade AgentOps control plane for AI agent governance with policy enforcement, budget tracking, audit logging, and approval gates.
+
 Misc
 ----
 
